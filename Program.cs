@@ -56,15 +56,15 @@ namespace HashTable
             //Console.ReadKey();
 
 
-            Console.WriteLine("Hello!! Welcome to Binary Search Tree");
-            BST<int> bst = new BST<int>();
+            //Console.WriteLine("Hello!! Welcome to Binary Search Tree");
+            //BST<int> bst = new BST<int>();
 
 
-            bst.Insert(56);
-            bst.Insert(30);
-            bst.Insert(70);
+            //bst.Insert(56);
+            //bst.Insert(30);
+            //bst.Insert(70);
 
-            bst.DisplayBST(bst.root);
+            //bst.DisplayBST(bst.root);
 
 
             //int[] arr = { 56, 30, 70, 22, 60, 40, 95, 16, 63, 67, 4, 11, 65 };
